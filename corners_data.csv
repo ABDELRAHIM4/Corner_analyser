@@ -1,0 +1,102 @@
+,match_id,minute,team,player,location_x,location_y,under_pressure,goal_scored,coded_team,coded_player
+0,7570,12,Arsenal,Mesut Özil,89.0,36.0,0,0,0,47
+1,7570,23,Arsenal,Mesut Özil,92.0,38.0,1,0,0,47
+2,7570,34,West Ham,Mark Noble,8.0,42.0,0,0,16,43
+3,7570,45,Arsenal,Theo Walcott,87.0,35.0,0,0,0,62
+4,7570,56,West Ham,Aaron Cresswell,12.0,44.0,1,0,16,0
+5,7570,67,Arsenal,Santi Cazorla,90.0,37.0,0,1,0,60
+6,7570,78,Arsenal,Mesut Özil,88.0,36.0,0,0,0,47
+7,7570,89,West Ham,Manuel Lanzini,10.0,41.0,1,0,16,40
+8,7570,91,Arsenal,Mesut Özil,91.0,39.0,0,0,0,47
+9,7570,93,West Ham,Mark Noble,9.0,43.0,1,0,16,43
+10,7581,15,Manchester City,Kevin De Bruyne,91.0,34.0,0,0,10,35
+11,7581,28,Manchester City,Riyad Mahrez,88.0,37.0,0,0,10,59
+12,7581,42,Chelsea,Mason Mount,7.0,39.0,1,0,5,45
+13,7581,55,Manchester City,Kevin De Bruyne,90.0,35.0,0,1,10,35
+14,7581,67,Chelsea,Reece James,9.0,41.0,1,0,5,58
+15,7581,79,Manchester City,Phil Foden,92.0,36.0,0,0,10,55
+16,7581,88,Chelsea,Ben Chilwell,10.0,38.0,1,0,5,6
+17,7582,8,Liverpool,Trent Alexander-Arnold,91.0,33.0,0,0,9,63
+18,7582,19,Liverpool,Andrew Robertson,89.0,35.0,0,0,9,4
+19,7582,33,Manchester United,Bruno Fernandes,8.0,40.0,1,0,11,7
+20,7582,47,Liverpool,Trent Alexander-Arnold,92.0,34.0,0,1,9,63
+21,7582,61,Manchester United,Marcus Rashford,11.0,42.0,1,0,11,41
+22,7582,74,Liverpool,Mohamed Salah,90.0,36.0,0,0,9,49
+23,7582,86,Manchester United,Luke Shaw,9.0,39.0,1,0,11,39
+24,7583,11,Tottenham,Heung-min Son,88.0,37.0,0,0,15,21
+25,7583,24,Tottenham,James Maddison,90.0,35.0,0,0,15,23
+26,7583,38,Newcastle,Kieran Trippier,10.0,43.0,1,0,12,36
+27,7583,52,Tottenham,Dejan Kulusevski,91.0,36.0,0,0,15,14
+28,7583,65,Newcastle,Bruno Guimarães,8.0,41.0,1,0,12,8
+29,7583,79,Tottenham,Heung-min Son,89.0,34.0,0,0,15,21
+30,7584,6,Aston Villa,John McGinn,87.0,38.0,0,0,1,27
+31,7584,18,Brighton,Kaoru Mitoma,11.0,44.0,1,0,3,34
+32,7584,31,Aston Villa,Leon Bailey,90.0,36.0,0,0,1,37
+33,7584,44,Brighton,Pascal Groß,9.0,40.0,1,0,3,53
+34,7584,57,Aston Villa,Ollie Watkins,88.0,37.0,0,0,1,52
+35,7584,69,Brighton,Solly March,12.0,42.0,1,0,3,61
+36,7584,82,Aston Villa,Douglas Luiz,91.0,35.0,0,0,1,16
+37,7585,14,West Ham,Jarrod Bowen,89.0,36.0,0,0,16,26
+38,7585,27,West Ham,Lucas Paquetá,91.0,38.0,0,0,16,38
+39,7585,41,Crystal Palace,Eberechi Eze,8.0,41.0,1,0,6,18
+40,7585,53,West Ham,Jarrod Bowen,90.0,34.0,0,0,16,26
+41,7585,68,Crystal Palace,Michael Olise,10.0,43.0,1,0,6,48
+42,7585,81,West Ham,James Ward-Prowse,88.0,37.0,0,1,16,25
+43,7586,9,Chelsea,Enzo Fernández,90.0,35.0,0,0,5,19
+44,7586,22,Fulham,Willian,9.0,42.0,1,0,8,64
+45,7586,35,Chelsea,Cole Palmer,91.0,36.0,0,0,5,11
+46,7586,48,Fulham,João Palhinha,8.0,40.0,1,0,8,30
+47,7586,62,Chelsea,Conor Gallagher,89.0,34.0,0,0,5,12
+48,7586,76,Fulham,Andreas Pereira,11.0,44.0,1,0,8,3
+49,7587,13,Bournemouth,Philip Billing,87.0,39.0,0,0,2,56
+50,7587,26,Nottingham Forest,Morgan Gibbs-White,10.0,41.0,1,0,13,50
+51,7587,39,Bournemouth,Justin Kluivert,90.0,37.0,0,0,2,33
+52,7587,54,Nottingham Forest,Anthony Elanga,8.0,42.0,1,0,13,5
+53,7587,68,Bournemouth,Marcus Tavernier,88.0,35.0,0,0,2,42
+54,7588,17,Everton,Dwight McNeil,89.0,38.0,0,0,7,17
+55,7588,30,Sheffield United,Gustavo Hamer,11.0,43.0,1,0,14,20
+56,7588,43,Everton,Amadou Onana,90.0,36.0,0,0,7,2
+57,7588,57,Sheffield United,James McAtee,9.0,41.0,1,0,14,24
+58,7588,71,Everton,Jordan Pickford,88.0,34.0,0,0,7,28
+59,7589,5,Arsenal,Bukayo Saka,91.0,35.0,0,0,0,9
+60,7589,22,Arsenal,Martin Ødegaard,89.0,37.0,0,0,0,44
+61,7589,41,Manchester United,Bruno Fernandes,10.0,42.0,1,0,11,7
+62,7589,58,Arsenal,Bukayo Saka,90.0,36.0,0,1,0,9
+63,7589,73,Manchester United,Marcus Rashford,8.0,40.0,1,0,11,41
+64,7589,88,Arsenal,Martin Ødegaard,92.0,38.0,0,0,0,44
+65,7590,7,Manchester City,Phil Foden,88.0,36.0,0,0,10,55
+66,7590,19,Manchester City,Kevin De Bruyne,91.0,34.0,0,0,10,35
+67,7590,36,Liverpool,Mohamed Salah,9.0,41.0,1,0,9,49
+68,7590,52,Manchester City,Julián Álvarez,90.0,35.0,0,0,10,32
+69,7590,68,Liverpool,Darwin Núñez,11.0,44.0,1,0,9,13
+70,7590,84,Manchester City,Kevin De Bruyne,89.0,37.0,0,1,10,35
+71,7591,3,Chelsea,Enzo Fernández,90.0,36.0,0,0,5,19
+72,7591,21,Chelsea,Cole Palmer,88.0,35.0,0,0,5,11
+73,7591,39,Tottenham,James Maddison,10.0,42.0,1,0,15,23
+74,7591,57,Chelsea,Conor Gallagher,91.0,37.0,0,0,5,12
+75,7591,72,Tottenham,Dejan Kulusevski,8.0,41.0,1,0,15,14
+76,7591,89,Chelsea,Nicolas Jackson,92.0,36.0,0,0,5,51
+77,7592,11,Newcastle,Kieran Trippier,89.0,38.0,0,0,12,36
+78,7592,28,Newcastle,Bruno Guimarães,90.0,36.0,0,0,12,8
+79,7592,44,Aston Villa,John McGinn,11.0,43.0,1,0,1,27
+80,7592,61,Newcastle,Alexander Isak,88.0,35.0,0,1,12,1
+81,7592,77,Aston Villa,Ollie Watkins,9.0,40.0,1,0,1,52
+82,7592,90,Newcastle,Callum Wilson,91.0,37.0,0,0,12,10
+83,7593,6,Brighton,Kaoru Mitoma,87.0,39.0,0,0,3,34
+84,7593,24,Brighton,Pascal Groß,90.0,36.0,0,0,3,53
+85,7593,42,West Ham,Jarrod Bowen,10.0,44.0,1,0,16,26
+86,7593,59,Brighton,Solly March,88.0,35.0,0,0,3,61
+87,7593,75,West Ham,James Ward-Prowse,11.0,42.0,1,0,16,25
+88,7593,90,Brighton,João Pedro,91.0,38.0,0,1,3,31
+89,7594,8,Fulham,Willian,89.0,37.0,0,0,8,64
+90,7594,25,Fulham,Andreas Pereira,90.0,35.0,0,0,8,3
+91,7594,43,Wolves,Pedro Neto,8.0,41.0,1,0,17,54
+92,7594,60,Fulham,Raúl Jiménez,91.0,36.0,0,0,8,57
+93,7594,78,Wolves,Matheus Cunha,10.0,43.0,1,0,17,46
+94,7594,92,Fulham,Willian,88.0,34.0,0,0,8,64
+95,7595,4,Everton,Dwight McNeil,90.0,38.0,0,0,7,17
+96,7595,22,Everton,Amadou Onana,89.0,36.0,0,0,7,2
+97,7595,41,Burnley,Josh Brownhill,11.0,44.0,1,0,4,29
+98,7595,58,Everton,Dominic Calvert-Lewin,88.0,35.0,0,1,7,15
+99,7595,76,Burnley,Wilson Odobert,9.0,42.0,1,0,4,65
+100,7595,88,Everton,James Garner,91.0,37.0,0,0,7,22
