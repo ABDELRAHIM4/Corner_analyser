@@ -18,7 +18,7 @@ def all_data():
 
 data = all_data()
 model = load_model()
-
+df = load_data()
 col1, col2 = st.columns([1, 1.5])
 
 with col1:
@@ -30,10 +30,10 @@ with col1:
 
     
     )
-    
+    team_player = df[df['team'] == team]['player'].unique().tolist()
     player = st.selectbox(
             "Choose the player",
-            data['player']
+            team_player
         )
     minute = st.slider(
         "minute",
@@ -74,7 +74,7 @@ with col1:
         st.markdown("prediction results")
         if predict_button:
             team_code = data['coded_team'][team]
-            player_code = data[data['coded_team'] == team_code]['coded_player'][player]
+            player_code = data['coded_player'][player]
             input_data = np.array([[
                 minute, team_code, player_code, float(loc_x), loc_y, int(under_press)
 
