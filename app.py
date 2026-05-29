@@ -74,7 +74,7 @@ with col1:
         st.markdown("prediction results")
         if predict_button:
             team_code = data['coded_team'][team]
-            player_code = data['coded_player'][player]
+            player_code = data[data['coded_team'] == team_code]['coded_player'][player]
             input_data = np.array([[
                 minute, team_code, player_code, float(loc_x), loc_y, int(under_press)
 
